@@ -3,7 +3,7 @@
 <h3 align="center">💻 Estudiante de Desarrollo de Software | Fundación Kinal</h3>
 
 <p align="center">
-Soy estudiante del <strong>Perito Técnico en Desarrollo de Software</strong> en la <strong>Fundación Kinal</strong>. Me apasiona el desarrollo web y disfruto crear aplicaciones que resuelvan problemas reales. Siempre estoy aprendiendo nuevas tecnologías y fortaleciendo mis conocimientos en frontend, backend y bases de datos.
+  Soy estudiante del <strong>Perito Técnico en Desarrollo de Software</strong> en la <strong>Fundación Kinal</strong>. Me apasiona el desarrollo web y disfruto convertir ideas en proyectos funcionales. Siempre estoy aprendiendo nuevas tecnologías y fortaleciendo mis conocimientos en frontend, backend y bases de datos.
 </p>
 
 ---
@@ -11,11 +11,11 @@ Soy estudiante del <strong>Perito Técnico en Desarrollo de Software</strong> en
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Desarrollo de Software en **Fundación Kinal**.
-- 💻 Apasionado por el desarrollo web y las aplicaciones Full Stack.
-- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
-- 🧠 Me gusta resolver problemas mediante software.
-- 🤝 Abierto a colaborar en proyectos interesantes.
-- 🎯 Mi objetivo es convertirme en desarrollador Full Stack.
+- 💻 Apasionado por el desarrollo web y la creación de aplicaciones Full Stack.
+- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
+- 🧠 Me gusta resolver problemas mediante software y enfrentar nuevos retos.
+- 🤝 Disfruto colaborar en proyectos que me permitan crecer profesionalmente.
+- 🎯 Mi objetivo es convertirme en un desarrollador Full Stack.
 
 ---
 
@@ -29,31 +29,44 @@ Soy estudiante del <strong>Perito Técnico en Desarrollo de Software</strong> en
 
 ## 📚 Actualmente
 
-- 🔭 Desarrollando aplicaciones web con **React**, **Node.js** y **.NET 8**.
+- 🔭 Desarrollando proyectos web con **React**, **Node.js** y **.NET 8**.
 - 🌱 Aprendiendo **React Navigation**, **MongoDB**, **JWT** y **Swagger/OpenAPI**.
-- 🚀 Mejorando mis conocimientos en arquitectura de software y APIs REST.
+- 📖 Mejorando mis conocimientos sobre APIs REST, arquitectura de software y buenas prácticas.
+- 🚀 Construyendo proyectos para seguir creciendo como desarrollador.
 
 ---
 
 ## 🎮 Intereses
 
-- 🎮 PlayStation 3.
-- 🛠️ PS3 HEN, webMAN MOD y personalización de consolas.
-- ⚽ Fútbol.
+Además de la programación también disfruto:
+
+- 🎮 Todo lo relacionado con la **PlayStation 3**.
+- 🛠️ **PS3 HEN**, **webMAN MOD** y personalización de consolas.
+- ⚽ Seguir el fútbol.
 - 🌍 Coleccionar stickers de la Copa del Mundo.
-- 💡 Aprender nuevas tecnologías y desarrollar proyectos personales.
+- 💡 Aprender sobre nuevas tecnologías y experimentar con proyectos personales.
 
 ---
 
-## 📂 Proyectos
+## 📂 Algunos proyectos
 
-En mi perfil encontrarás proyectos relacionados con:
+Aquí encontrarás proyectos relacionados con:
 
-- 🍔 Sistemas para restaurantes.
+- 🍔 Sistemas de gestión para restaurantes.
 - 🌐 Aplicaciones web Full Stack.
-- 🔐 APIs REST.
-- 📱 Desarrollo con React.
+- 🔐 APIs REST con autenticación JWT.
+- 📱 Interfaces modernas con React.
 - 🗄️ Bases de datos MongoDB y SQL.
+
+---
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lcastro-2021276&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -61,11 +74,15 @@ En mi perfil encontrarás proyectos relacionados con:
 
 <p align="left">
 <a href="https://github.com/lcastro-2021276">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://discord.com/users/TU_ID_DE_DISCORD">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://www.youtube.com/">
+<img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://skillicons.dev/icons?i=discord"/>
 </a>
 </p>
 
@@ -73,17 +90,20 @@ En mi perfil encontrarás proyectos relacionados con:
 
 ## 📫 Contacto
 
-- 📧 **Correo:** lcastro-2021276@kinal.edu.gt
-- 🌎 **Ubicación:** Guatemala
-- 🏫 **Institución:** Fundación Kinal
-- 🌐 **Portafolio:** Próximamente...
+📧 **Correo:** lcastro-2021276@kinal.edu.gt
+
+🏫 **Institución:** Fundación Kinal
+
+🌎 **Ubicación:** Guatemala
+
+🌐 **Portafolio:** Próximamente...
 
 ---
 
 <div align="center">
 
-### ¡Gracias por visitar mi perfil! 🚀
+###  ¡Gracias por visitar mi perfil! 🚀
 
-*"Cada proyecto es una oportunidad para aprender algo nuevo."*
+*"El aprendizaje nunca termina; cada proyecto es una nueva oportunidad para mejorar."* 🚀
 
 </div>
