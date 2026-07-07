@@ -1,45 +1,14 @@
+¡Hola![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Mi nombre es Luis fernando Castro ======================================================================== ========================================================================== Estudiante de Desarrollo de Software en Fundación Kinal | Desarrollador Web en formación ---------------------------------------------------------------------------------------- Soy estudiante de Desarrollo de Software en la Fundación Kinal y un apasionado por la tecnología. Disfruto crear aplicaciones web, aprender nuevas tecnologías y convertir ideas en proyectos funcionales. Me interesa el desarrollo tanto del frontend como del backend, aplicando buenas prácticas y herramientas modernas. En este perfil encontrarás algunos de mis proyectos, prácticas y el camino que estoy recorriendo para seguir creciendo como desarrollador. * 🌍 Estoy basado en Guatemala * ✉️ Puedes contactarme a [lcastro-2021276@kinal.edu.gt](mailto:lcastro-2021276@kinal.edu.gt) * 🚀 Actualmente estoy trabajando en el [Centro Educativo Técnico Laboral KINAL](http://www.kinal.org.gt/) * 🧠 Actualmente estoy aprendiendo React React Navigation Node.js Express.js .NET 8 MongoDB Mongoose JWT Swagger / OpenAPI Git & GitHub pnpm * 👥 Busco colaborar en Proyectos de desarrollo web Aplicaciones con React y Node.js APIs REST Proyectos de código abierto (Open Source) Nuevas ideas que me permitirán aprender y aportar * 💬 Pregúntame sobre Me apasiona el desarrollo de software y aprender nuevas tecnologías. 🎮 También soy fan de los videojuegos y del mundo de la PS3, especialmente de WebMAN MOD, HEN y la personalización de consolas. 🌱 Siempre busco mejorar mis habilidades mediante proyectos personales y colaborativos. ⚽ Aficionado del FC Barcelona y de seguir el fútbol. ☕ Creo que la mejor forma de aprender es construyendo proyectos reales y enfrentando nuevos desafíos.
 
-# 👋 ¡Hola! Soy Luis
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+</p>
 
-Soy estudiante de Desarrollo de Software en la Fundación Kinal y un apasionado por la tecnología. Me gusta desarrollar aplicaciones web, aprender nuevas herramientas y convertir ideas en proyectos funcionales. En este perfil encontrarás algunos de mis proyectos, prácticas y el camino que estoy recorriendo para seguir creciendo como desarrollador.
+### Redes sociales
 
----
+<p align="left"> </p> <a href="https://www.github.com/lcastro-2021276" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" <img title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@CASI30SEÑORES" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/elmikuvi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" altura="32" alt="Discord" title="Discord" /> </imagen> </a>
+### Insignias
 
-##  Sobre mí
+<b>Mis estadísticas de GitHub</b>
 
-*  Estudiante del Perito Técnico en Desarrollo de Software en la Fundación Kinal.
-*  Apasionado por el desarrollo web, el backend y el diseño de interfaces (UI/UX).
-*  Siempre estoy aprendiendo nuevas tecnologías y buscando mejorar mis habilidades como desarrollador.
-*  Me gusta trabajar en proyectos que representen nuevos retos y me permitan seguir creciendo profesionalmente.
-*  Entusiasta de la PlayStation 3; me interesa el mundo de **PS3 HEN**, **webMAN MOD** y la personalización de consolas.
-*  Aficionado al fútbol y coleccionista de stickers de la Copa del Mundo.
-*  Mi objetivo es convertirme en un desarrollador Full Stack y contribuir a proyectos que generen un impacto positivo.
-
-
-
-
-*  **Quién soy:** Soy estudiante de la Fundación Kinal, donde curso el Perito Técnico en Desarrollo de Software. Me gusta aprender nuevas tecnologías y enfrentarme a retos que me ayuden a mejorar como desarrollador.
-
-*  **Sobre mí:** Soy un apasionado por el desarrollo de software, especialmente por el desarrollo web y la creación de interfaces intuitivas. Disfruto construir proyectos desde cero, aprender nuevas herramientas y encontrar soluciones a problemas reales.
-
-*  **Tecnologías con las que he trabajado:**
-    * React
-    * React Navigation
-    * Node.js
-    * Express.js
-    * .NET 8
-    * MongoDB
-    * Mongoose
-    * JWT
-    * Swagger / OpenAPI
-    * Git & GitHub
-    * pnpm
-
-*  **Actualmente:** Estoy desarrollando proyectos relacionados con la gestión de restaurantes y aplicaciones web, fortaleciendo mis conocimientos en frontend, backend y bases de datos.
-
-*  **Otros intereses:** También soy un entusiasta de la PlayStation 3. Me interesa el mundo del **PS3 HEN**, **webMAN MOD**, la personalización de consolas y aprender más sobre su funcionamiento.
-
-*  **Fuera de la programación:** Me gusta el fútbol y coleccionar stickers de la Copa del Mundo. Además, siempre busco aprender algo nuevo, ya sea sobre tecnología o cualquier tema que despierte mi curiosidad.
-
-*  **Objetivo:** Seguir creciendo como desarrollador Full Stack, participar en proyectos que representen nuevos desafíos y continuar aprendiendo tecnologías modernas.
-
+<a href="http://www.github.com/lcastro-2021276"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lcastro-2021276&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
