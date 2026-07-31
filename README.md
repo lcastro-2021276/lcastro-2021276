@@ -10,12 +10,12 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Desarrollo de Software en **Fundación Kinal**.
-- 💻 Apasionado por el desarrollo web y la creación de aplicaciones Full Stack.
-- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
-- 🧠 Me gusta resolver problemas mediante software y enfrentar nuevos retos.
-- 🤝 Disfruto colaborar en proyectos que me permitan crecer profesionalmente.
-- 🎯 Mi objetivo es convertirme en un desarrollador Full Stack.
+- 🎓 Estudiante de Desarrollo de Software en **Fundación Kinal**
+- 💻 Apasionado por el desarrollo web y la creación de aplicaciones Full Stack
+- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo
+- 🧠 Me gusta resolver problemas mediante software y enfrentar nuevos retos
+- 🤝 Disfruto colaborar en proyectos que me permitan crecer profesionalmente
+- 🎯 Mi objetivo es convertirme en un desarrollador Full Stack
 
 ---
 
@@ -27,12 +27,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lcastro-2021276&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcastro-2021276&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 📚 Actualmente
 
-- 🔭 Desarrollando proyectos web con **React**, **Node.js** y **.NET 8**.
-- 🌱 Aprendiendo **React Navigation**, **MongoDB**, **JWT** y **Swagger/OpenAPI**.
-- 📖 Mejorando mis conocimientos sobre APIs REST, arquitectura de software y buenas prácticas.
-- 🚀 Construyendo proyectos para seguir creciendo como desarrollador.
+- 🔭 Desarrollando proyectos web con **React**, **Node.js** y **.NET 8**
+- 🌱 Aprendiendo **React Navigation**, **MongoDB**, **JWT** y **Swagger/OpenAPI**
+- 📖 Mejorando mis conocimientos sobre APIs REST, arquitectura de software y buenas prácticas
+- 🚀 Construyendo proyectos para seguir creciendo como desarrollador
 
 ---
 
@@ -40,11 +52,11 @@
 
 Además de la programación también disfruto:
 
-- 🎮 Todo lo relacionado con la **PlayStation 3**.
-- 🛠️ **PS3 HEN**, **webMAN MOD** y personalización de consolas.
-- ⚽ Seguir el fútbol.
-- 🌍 Coleccionar stickers de la Copa del Mundo.
-- 💡 Aprender sobre nuevas tecnologías y experimentar con proyectos personales.
+- 🎮 Todo lo relacionado con la **PlayStation 3**
+- 🛠️ **PS3 HEN**, **webMAN MOD** y personalización de consolas
+- ⚽ Seguir el fútbol
+- 🌍 Coleccionar stickers de la Copa del Mundo
+- 💡 Aprender sobre nuevas tecnologías y experimentar con proyectos personales
 
 ---
 
@@ -52,13 +64,11 @@ Además de la programación también disfruto:
 
 Aquí encontrarás proyectos relacionados con:
 
-- 🍔 Sistemas de gestión para restaurantes.
-- 🌐 Aplicaciones web Full Stack.
-- 🔐 APIs REST con autenticación JWT.
-- 📱 Interfaces modernas con React.
-- 🗄️ Bases de datos MongoDB y SQL.
-
----
+- 🍔 Sistemas de gestión para restaurantes
+- 🌐 Aplicaciones web Full Stack
+- 🔐 APIs REST con autenticación JWT
+- 📱 Interfaces modernas con React
+- 🗄️ Bases de datos MongoDB y SQL
 
 ---
 
