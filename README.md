@@ -1,112 +1,74 @@
-# 👋 ¡Hola! Soy Luis Fernando Castro
+<h1 align="center">👋 Hola, soy Luis Fernando Castro</h1>
 
-<h3 align="center">💻 Estudiante de Desarrollo de Software | Fundación Kinal</h3>
+<h3 align="center">Perito Técnico en Informática | Desarrollo web Full Stack</h3>
 
 <p align="center">
-  Soy estudiante del <strong>Perito Técnico en Desarrollo de Software</strong> en la <strong>Fundación Kinal</strong>. Me apasiona el desarrollo web y disfruto convertir ideas en proyectos funcionales. Siempre estoy aprendiendo nuevas tecnologías y fortaleciendo mis conocimientos en frontend, backend y bases de datos.
+  Estudiante de la <strong>Fundación Kinal</strong>, con práctica supervisada en el
+  <strong>Instituto Nacional de Electrificación (INDE)</strong>. Desarrollo aplicaciones web
+  con React, Node.js y .NET, y me gusta convertir ideas en proyectos que funcionen.
+</p>
+
+<p align="center">
+  <a href="https://portafolio-de-desarrollador-nine.vercel.app">🌐 Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/luis-fernando-castro-xicon-197594425">💼 LinkedIn</a> ·
+  <a href="mailto:luisfercastro6a@gmail.com">📧 Correo</a>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de Desarrollo de Software en **Fundación Kinal**
-- 💻 Apasionado por el desarrollo web y la creación de aplicaciones Full Stack
-- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo
-- 🧠 Me gusta resolver problemas mediante software y enfrentar nuevos retos
-- 🤝 Disfruto colaborar en proyectos que me permitan crecer profesionalmente
-- 🎯 Mi objetivo es convertirme en un desarrollador Full Stack
+- 🎓 Perito Técnico en Informática en **Fundación Kinal**
+- 🛠️ Práctica supervisada en el **INDE**: soporte técnico y desarrollo en equipo
+- 💻 Desarrollo aplicaciones web Full Stack: frontend, backend y bases de datos
+- 🧠 Me gusta resolver problemas y aprender cosas nuevas
+- 🎯 Busco mi primera oportunidad como desarrollador junior
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,dotnet,mongodb,git,github,vscode,visualstudio,tailwind,postgres,mysql&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,dotnet,cs,mongodb,postgres,git,github,vscode,docker&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Proyectos destacados
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lcastro-2021276&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| **[Gestor de Tareas INDE](https://github.com/egomez-2021272/GestorTareas-INDE)** | Sistema de gestión de tareas desarrollado en equipo durante mi práctica en el INDE. Calificación 100/100. | .NET 8, C#, API REST, autenticación |
+| **K-Don'tForget** | Sistema de gestión de citas con panel de administración y autenticación con JWT. | React, Node.js, Express, MongoDB, JWT |
+| **BitCoiners: Mixóloga el Gepardo** | Aplicación web para restaurantes con carta digital y pagos en criptomonedas. | React, Node.js, Express |
+| **BitCoiners: One Coin** | Sistema bancario descentralizado con contratos inteligentes. | Solidity, Web3, Node.js |
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcastro-2021276&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+> 👉 Más detalles en mi [portafolio](https://portafolio-de-desarrollador-nine.vercel.app).
 
 ---
 
 ## 📚 Actualmente
 
 - 🔭 Desarrollando proyectos web con **React**, **Node.js** y **.NET 8**
-- 🌱 Aprendiendo **React Navigation**, **MongoDB**, **JWT** y **Swagger/OpenAPI**
-- 📖 Mejorando mis conocimientos sobre APIs REST, arquitectura de software y buenas prácticas
-- 🚀 Construyendo proyectos para seguir creciendo como desarrollador
+- 🌱 Reforzando APIs REST, autenticación con **JWT** y documentación con **Swagger/OpenAPI**
+- 🤝 Aprendiendo a trabajar en equipo con **Git y GitHub**
 
 ---
 
-## 🎮 Intereses
-
-Además de la programación también disfruto:
-
-- 🎮 Todo lo relacionado con la **PlayStation 3**
-- 🛠️ **PS3 HEN**, **webMAN MOD** y personalización de consolas
-- ⚽ Seguir el fútbol
-- 🌍 Coleccionar stickers de la Copa del Mundo
-- 💡 Aprender sobre nuevas tecnologías y experimentar con proyectos personales
-
----
-
-## 📂 Algunos proyectos
-
-Aquí encontrarás proyectos relacionados con:
-
-- 🍔 Sistemas de gestión para restaurantes
-- 🌐 Aplicaciones web Full Stack
-- 🔐 APIs REST con autenticación JWT
-- 📱 Interfaces modernas con React
-- 🗄️ Bases de datos MongoDB y SQL
-
----
-
-## 🔥 Racha de contribuciones
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=lcastro-2021276&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Redes sociales
-
-<p align="left">
-<a href="https://github.com/lcastro-2021276">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.youtube.com/">
-<img src="https://skillicons.dev/icons?i=youtube"/>
-</a>
-
-<a href="https://discord.com/">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lcastro-2021276&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-📧 **Correo:** lcastro-2021276@kinal.edu.gt
-
-🏫 **Institución:** Fundación Kinal
-
-🌎 **Ubicación:** Guatemala
-
-🌐 **Portafolio:** Próximamente...
+- 📧 **Correo:** luisfercastro6a@gmail.com
+- 💼 **LinkedIn:** [Luis Fernando Castro](https://www.linkedin.com/in/luis-fernando-castro-xicon-197594425)
+- 🌐 **Portafolio:** [portafolio-de-desarrollador-nine.vercel.app](https://portafolio-de-desarrollador-nine.vercel.app)
+- 🌎 **Ubicación:** Ciudad de Guatemala
 
 ---
 
